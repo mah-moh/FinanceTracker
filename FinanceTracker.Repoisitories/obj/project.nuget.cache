@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "aq6h41n6YCHpcXyqLNsMnaw7gsNLJbcOSXYcrdRrLS0MCZv7W6WBHNH191Z3fmw6vA/Bgy0BRTkFf7HL+GUKKw==",
+  "dgSpecHash": "8KDKgG4NRdRY1FO473/3jofMIXCuyhemWYub3BCK5FfxreKYmk7F7U0b8ai9bIAF7GgpV60wmx6vhq2xeE8m8g==",
   "success": true,
   "projectFilePath": "C:\\Users\\AD-IT Tomal\\Documents\\Maheen\\FinanceTracker\\FinanceTracker.Repoisitories\\FinanceTracker.Repoisitories.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\AD-IT Tomal\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\AD-IT Tomal\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\AD-IT Tomal\\.nuget\\packages\\mongodb.bson\\2.25.0\\mongodb.bson.2.25.0.nupkg.sha512",
+    "C:\\Users\\AD-IT Tomal\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\AD-IT Tomal\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
