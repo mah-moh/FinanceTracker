@@ -4,6 +4,64 @@
     "C:\\Users\\AD-IT Tomal\\Documents\\Maheen\\FinanceTracker\\FinanceTracker.Handlers\\FinanceTracker.Handlers.csproj": {}
   },
   "projects": {
+    "C:\\Users\\AD-IT Tomal\\Documents\\Maheen\\FinanceTracker\\FinanceTracker.DTOs\\FinanceTracker.DTOs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AD-IT Tomal\\Documents\\Maheen\\FinanceTracker\\FinanceTracker.DTOs\\FinanceTracker.DTOs.csproj",
+        "projectName": "FinanceTracker.DTOs",
+        "projectPath": "C:\\Users\\AD-IT Tomal\\Documents\\Maheen\\FinanceTracker\\FinanceTracker.DTOs\\FinanceTracker.DTOs.csproj",
+        "packagesPath": "C:\\Users\\AD-IT Tomal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AD-IT Tomal\\Documents\\Maheen\\FinanceTracker\\FinanceTracker.DTOs\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\AD-IT Tomal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\AD-IT Tomal\\Documents\\Maheen\\FinanceTracker\\FinanceTracker.Handlers\\FinanceTracker.Handlers.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -12,6 +70,71 @@
         "projectPath": "C:\\Users\\AD-IT Tomal\\Documents\\Maheen\\FinanceTracker\\FinanceTracker.Handlers\\FinanceTracker.Handlers.csproj",
         "packagesPath": "C:\\Users\\AD-IT Tomal\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\AD-IT Tomal\\Documents\\Maheen\\FinanceTracker\\FinanceTracker.Handlers\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\AD-IT Tomal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\AD-IT Tomal\\Documents\\Maheen\\FinanceTracker\\FinanceTracker.DTOs\\FinanceTracker.DTOs.csproj": {
+                "projectPath": "C:\\Users\\AD-IT Tomal\\Documents\\Maheen\\FinanceTracker\\FinanceTracker.DTOs\\FinanceTracker.DTOs.csproj"
+              },
+              "C:\\Users\\AD-IT Tomal\\Documents\\Maheen\\FinanceTracker\\FinanceTracker.Repoisitories\\FinanceTracker.Repoisitories.csproj": {
+                "projectPath": "C:\\Users\\AD-IT Tomal\\Documents\\Maheen\\FinanceTracker\\FinanceTracker.Repoisitories\\FinanceTracker.Repoisitories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\AD-IT Tomal\\Documents\\Maheen\\FinanceTracker\\FinanceTracker.Repoisitories\\FinanceTracker.Repoisitories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AD-IT Tomal\\Documents\\Maheen\\FinanceTracker\\FinanceTracker.Repoisitories\\FinanceTracker.Repoisitories.csproj",
+        "projectName": "FinanceTracker.Repoisitories",
+        "projectPath": "C:\\Users\\AD-IT Tomal\\Documents\\Maheen\\FinanceTracker\\FinanceTracker.Repoisitories\\FinanceTracker.Repoisitories.csproj",
+        "packagesPath": "C:\\Users\\AD-IT Tomal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AD-IT Tomal\\Documents\\Maheen\\FinanceTracker\\FinanceTracker.Repoisitories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
