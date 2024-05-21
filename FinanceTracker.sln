@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinanceTracker.Handlers", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinanceTracker.Repoisitories", "FinanceTracker.Repoisitories\FinanceTracker.Repoisitories.csproj", "{DE3CB840-AC58-4C45-860C-6FFC693C443E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinanceTracker.Aggregator.User", "FinanceTracker.Aggregator.User\FinanceTracker.Aggregator.User.csproj", "{45B7AEC0-4176-484F-8F18-B8AF5E667304}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{DE3CB840-AC58-4C45-860C-6FFC693C443E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE3CB840-AC58-4C45-860C-6FFC693C443E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE3CB840-AC58-4C45-860C-6FFC693C443E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45B7AEC0-4176-484F-8F18-B8AF5E667304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45B7AEC0-4176-484F-8F18-B8AF5E667304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45B7AEC0-4176-484F-8F18-B8AF5E667304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45B7AEC0-4176-484F-8F18-B8AF5E667304}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
